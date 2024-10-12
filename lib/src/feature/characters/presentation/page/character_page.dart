@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_devcamp_riverpod_api/src/feature/characters/application/controller/character_controller.dart';
-import 'package:flutter_devcamp_riverpod_api/src/feature/characters/application/provider/character_provider.dart';
 import 'package:flutter_devcamp_riverpod_api/src/feature/characters/domain/entity/character.dart';
 import 'package:flutter_devcamp_riverpod_api/src/feature/characters/presentation/widget/character_card.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
